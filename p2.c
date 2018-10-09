@@ -1,6 +1,6 @@
-/*P2.c*/
-/*Yasmin Delbany Cury*/
-/*11811EEL010*/
+/* P2.c */
+/* Yasmin Delbany Cury */
+/* 11811EEL010 */
 
 
 
