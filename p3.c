@@ -1,3 +1,7 @@
+/* P3.c */
+/* Yasmin Delbany Cury */
+/* 11811EEL010 */
+
 #include <stdio.h>
 
 int main()
