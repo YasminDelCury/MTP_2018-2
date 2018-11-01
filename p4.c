@@ -1,6 +1,7 @@
+/* P4.c */
 /* Yasmin Delbany Cury */
 /* 11811EEL010 */
-/* P4.c */
+
 
 #include <stdio.h>
 
