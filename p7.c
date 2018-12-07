@@ -1,3 +1,9 @@
+/* P7.c */
+/*Yasmin Delbany Cury*/
+/* 11811EEL010 */
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
