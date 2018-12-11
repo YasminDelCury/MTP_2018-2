@@ -23,15 +23,18 @@ void gera_pontos(struct ponto *v, int n)
 	}
 	
 }
+
 int main()
 {
 	int n,i;
 	scanf("%d", &n);
 	struct ponto *v = (struct ponto *)calloc(n, sizeof(struct ponto));
 	gera_pontos(v,n);
+	
+	printf("\n");
 	for(i=0;i<n;i++)
 	{
-		printf("\n %.3f , %.3f", v[i].x, v[i].y);
+		printf("(%.3f,%.3f) ", v[i].x, v[i].y);
 	}
 	free(v);
 	return 0;
