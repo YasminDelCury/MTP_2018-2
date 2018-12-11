@@ -9,8 +9,8 @@
 
 struct ponto
 {
-	float x;
-	float y;
+	double x;
+	double y;
 };
 
 void gera_pontos(struct ponto *v, int n)
@@ -34,7 +34,7 @@ int main()
 	printf("\n");
 	for(i=0;i<n;i++)
 	{
-		printf("(%.3f,%.3f) ", v[i].x, v[i].y);
+		printf("(%.3lf,%.3lf) ", v[i].x, v[i].y);
 	}
 	free(v);
 	return 0;
