@@ -1,5 +1,5 @@
 /* P7.c */
-/*Yasmin Delbany Cury*/
+/* Yasmin Delbany Cury */
 /* 11811EEL010 */
 
 
